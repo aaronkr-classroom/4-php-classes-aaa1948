@@ -3,7 +3,7 @@
 classes/Account.php
 계좌 관리하는 클래스
 */
-include_once('AccountNumber');
+include_once('AccountNumber.php');
 
 class Account {
     //계좌의 속성
